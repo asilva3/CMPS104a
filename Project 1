@@ -1,4 +1,5 @@
-1. Overview
+Overview
+
 Write a main program for the language oc that will be compiled.
 Also, include a string set ADT for it, and make it preprocess the program using the
 C preprocessor, /usr/bin/cpp. The main program will be called from Unix according
