@@ -1,0 +1,9 @@
+Augment your string table manager from the previous project by adding to it a scanner
+written in flex. Continue to use the module auxlib. Include token creation routines
+in the modules astree, auxlib, and lyutils from Assignments/util-code.
+
+SYNOPSIS
+oc [-ly] [-@ flag . . .] [-D string] program.oc
+For this project, given an input file called program.oc, you will generate output files
+called program.str (as before) and also program.tok. All specifications from project
+1 apply to this project. In addition, the -l flag must turn on yy_flex_debug.
